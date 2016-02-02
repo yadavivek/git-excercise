@@ -1,1 +1,2 @@
 Made change in test file in cloned respository.
+Add changes to both repos, try to push from both without taking a pull. 
