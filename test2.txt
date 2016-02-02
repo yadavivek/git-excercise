@@ -1,1 +1,2 @@
 Hello This is second test file.
+Add changes to both repos, try to push from both without taking a pull in cloned repo. 
