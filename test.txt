@@ -1,3 +1,4 @@
 Made change in test file in cloned respository.
 Add changes to both repos, try to push from both without taking a pull.
-Edit the same file at the same line on both branches 
+Edit the same file at the same line on both branches
+Add content on same line in main branch:. 
